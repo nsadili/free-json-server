@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Sebastian",
+      "last_name": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Steve",
+      "last_name": "Palmer",
+      "email": "steve@codingthesmartway.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Ann",
+      "last_name": "Smith",
+      "email": "ann@codingthesmartway.com"
+    },
+    {
+      "first_name": "Test",
+      "last_name": "test",
+      "email": "test",
+      "id": 4
+    },
+    {
+      "first_name": "sdfsdf",
+      "last_name": "gdfgfd",
+      "email": "dfgdfgfdg",
+      "id": 5
+    },
+    {
+      "first_name": "ddfg",
+      "last_name": "fdgdfg",
+      "email": "fggfh",
+      "id": 6
+    },
+    {
+      "first_name": "asdas",
+      "last_name": "fdgd",
+      "email": "dgdfgdf",
+      "id": 7
+    }
+  ]
+}
